@@ -1,0 +1,12 @@
+C:\Users\Rares Catalin Onescu\source\repos\Matrici\Matrici\obj\Debug\netcoreapp3.1\Matrici.AssemblyInfoInputs.cache
+C:\Users\Rares Catalin Onescu\source\repos\Matrici\Matrici\obj\Debug\netcoreapp3.1\Matrici.AssemblyInfo.cs
+C:\Users\Rares Catalin Onescu\source\repos\Matrici\Matrici\obj\Debug\netcoreapp3.1\Matrici.csproj.CoreCompileInputs.cache
+C:\Users\Rares Catalin Onescu\source\repos\Matrici\Matrici\bin\Debug\netcoreapp3.1\Matrici.exe
+C:\Users\Rares Catalin Onescu\source\repos\Matrici\Matrici\bin\Debug\netcoreapp3.1\Matrici.deps.json
+C:\Users\Rares Catalin Onescu\source\repos\Matrici\Matrici\bin\Debug\netcoreapp3.1\Matrici.runtimeconfig.json
+C:\Users\Rares Catalin Onescu\source\repos\Matrici\Matrici\bin\Debug\netcoreapp3.1\Matrici.runtimeconfig.dev.json
+C:\Users\Rares Catalin Onescu\source\repos\Matrici\Matrici\bin\Debug\netcoreapp3.1\Matrici.dll
+C:\Users\Rares Catalin Onescu\source\repos\Matrici\Matrici\bin\Debug\netcoreapp3.1\Matrici.pdb
+C:\Users\Rares Catalin Onescu\source\repos\Matrici\Matrici\obj\Debug\netcoreapp3.1\Matrici.dll
+C:\Users\Rares Catalin Onescu\source\repos\Matrici\Matrici\obj\Debug\netcoreapp3.1\Matrici.pdb
+C:\Users\Rares Catalin Onescu\source\repos\Matrici\Matrici\obj\Debug\netcoreapp3.1\Matrici.genruntimeconfig.cache
